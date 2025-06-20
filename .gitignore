@@ -1,0 +1,8 @@
+hcp1200/
+logs/
+restricted_subject_id_map.json
+restricted_unfiltered_data.csv
+hcp_7t_unfiltered.csv
+filtered_restricted_subject_data.csv
+anon_7t_filtered_no_qc_issue/
+anon_7t_filtered_no_qc_issue_parcellated/
